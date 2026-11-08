@@ -1,6 +1,6 @@
 # GBU Campus
 
-**Instructor-produced teaching sample.** This project was produced by the course instructor as a sample for learning AI-assisted development. It is **not an official 3D tour of Great Bay University**, an official campus map, or a surveyed reconstruction. The night story is fictional.
+**Instructor-produced teaching sample.** This project was produced by the course instructor as a sample for learning AI-assisted development. It is **not an official 3D tour of Great Bay University**, an official campus map, or a surveyed reconstruction. The night story is fictional
 
 - [Game source code](https://github.com/greenquark/gbu-campus)
 - [Play the game](https://greenquark.github.io/world/)
